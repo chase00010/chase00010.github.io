@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #282828;
+}
+.section{
+    background-color: rgb(28, 28, 28);
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60%;
+    margin: 10rem auto 0 auto;
+}
+.section img{
+    height: 250px;
+}
+.section h1{
+    margin: 0;
+    color: white
+}
+
+.section p{
+    color: white;
+    margin: 15px;
+}
+
